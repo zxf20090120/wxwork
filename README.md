@@ -3,7 +3,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/pithyone/wechat/v/unstable)](https://packagist.org/packages/pithyone/wechat)
 [![License](https://poser.pugx.org/pithyone/wechat/license)](https://packagist.org/packages/pithyone/wechat)
 
-# WeWork
+# WxWork
 
 > 最最最简单易用的企业微信SDK
 
@@ -18,9 +18,9 @@
 ## Installation
 
 ```bash
-composer require pithyone/wechat
+composer require zxf20090120/wxwork
 ```
 
 ## License
 
-[MIT](https://github.com/pithyone/wechat/blob/master/LICENSE)
+[MIT](https://github.com/zxf20090120/wxwork/blob/master/LICENSE)
